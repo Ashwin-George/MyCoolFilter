@@ -1,0 +1,1 @@
+C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\build\intermediates\cxx\RelWithDebInfo\6qc3103d\obj\x86_64

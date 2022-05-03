@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:3:7-27
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:5:5-32
+	xmlns:android
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:2:11-69
+	android:version-code
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml:4:5-32
+uses-sdk
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+		ADDED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
+		INJECTED from C:\Users\ashwi\AndroidStudioProjects\MyCoolFilter\OpenCVLib452\java\AndroidManifest.xml
